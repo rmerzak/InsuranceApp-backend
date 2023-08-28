@@ -2,13 +2,13 @@
 
 ## 1. Getting started
 
-### 1.1. Récupérer les sources
+### 1.1. Git clone
 
 ```
 $ git clone https://github.com/rmerzak/InsuranceApp-backend.git
 ```
 
-### 1.2. Lancer l'application
+### 1.2. Run application
 
 ```
 $ mvn spring-boot:run
